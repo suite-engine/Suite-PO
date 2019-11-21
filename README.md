@@ -1,5 +1,10 @@
 # Suite P.O.
 
+Setup and Use Instructions: 
+
+https://github.com/suite-engine/Suite-PO/wiki
+
+
 Create Purchase Orders with one push of a button and easily navigate between the PO and Sales Order.
 Eliminate unnecessary steps, improve efficiency, and maintain visibility.
 
